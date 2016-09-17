@@ -11,7 +11,7 @@ int main(){
 	cout << "Your name is " << name;
 	cout << "\n\n"
 		 << "What is your age? ";
-	cin >> age;
+	cin >> age; 
 	cout << "Your age is " << age;
 	while (true){};
 }
